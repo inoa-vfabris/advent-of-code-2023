@@ -1,2 +1,2 @@
-# advent-of-code-2023
-My solutions to the Advent of Code 2023 in Python
+# Advent of code 2023
+My solutions to the [Advent of Code 2023](https://adventofcode.com/) in Python
